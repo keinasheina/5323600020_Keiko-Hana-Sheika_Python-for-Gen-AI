@@ -1,0 +1,7 @@
+prompt,model,response,latency_ms,score
+What is a transformer?,claude-sonnet-4-5,[claude-sonnet-4-5] A transformer is a deep learning model that uses attention mechanisms to process sequential data.,638.931083961573,1.0
+What is a transformer?,gpt-4o,[gpt-4o] A transformer is a deep learning model that uses attention mechanisms to process sequential data.,640.4055530133563,1.0
+Define RAG,claude-sonnet-4-5,[claude-sonnet-4-5] RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation.,469.2828163906449,1.0
+Define RAG,gpt-4o,[gpt-4o] RAG stands for Retrieval-Augmented Generation. It combines information retrieval with text generation.,346.35439292861315,1.0
+What is fine-tuning?,claude-sonnet-4-5,[claude-sonnet-4-5] Fine-tuning is additional training that adjusts the model weights for a specific task.,453.5778387044356,1.0
+What is fine-tuning?,gpt-4o,[gpt-4o] Fine-tuning is additional training that adjusts the model weights for a specific task.,594.7673510751223,1.0

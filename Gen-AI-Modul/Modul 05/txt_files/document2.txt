@@ -1,0 +1,1 @@
+Machine learning is a branch of artificial intelligence. Models learn patterns from data. These patterns can be used for prediction.

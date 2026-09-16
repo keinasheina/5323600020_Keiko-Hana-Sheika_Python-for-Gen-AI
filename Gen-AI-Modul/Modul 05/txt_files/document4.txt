@@ -1,0 +1,1 @@
+Natural language processing allows computers to understand human language.

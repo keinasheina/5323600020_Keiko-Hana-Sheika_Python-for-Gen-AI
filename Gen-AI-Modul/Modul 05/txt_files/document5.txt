@@ -1,0 +1,1 @@
+Computer vision enables computers to understand images and videos. It is widely used in artificial intelligence.
