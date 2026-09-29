@@ -1,0 +1,8 @@
+{
+    "reviewer_basic": {
+        "name": "reviewer_basic",
+        "system": "You are a code reviewer. Look at this code and tell me if it is good or bad.",
+        "version": "1.0",
+        "last_evaluated_at": "2026-09-29 10:00:00"
+    }
+}
