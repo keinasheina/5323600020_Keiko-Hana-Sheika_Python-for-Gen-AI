@@ -1,0 +1,1 @@
+Retrieval-augmented generation is an AI technique that enhances a language model's responses by first fetching relevant information from an external knowledge source.
